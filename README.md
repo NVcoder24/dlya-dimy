@@ -1,1 +1,13 @@
 # dlya-dimy
+```bash
+git clone https://github.com/NVcoder24/dlya-dimy/
+```
+```bash
+cd dlya-dimy/
+```
+```bash
+python3 main.py
+```
+```bash
+http://127.0.0.1:8080/
+```

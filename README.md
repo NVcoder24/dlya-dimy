@@ -3,6 +3,9 @@
 git clone https://github.com/NVcoder24/dlya-dimy/
 ```
 ```bash
+sudo apt-get install python3
+```
+```bash
 cd dlya-dimy/
 ```
 ```bash

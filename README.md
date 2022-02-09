@@ -11,6 +11,6 @@ cd dlya-dimy/
 ```bash
 python3 main.py
 ```
-```bash
+
 http://127.0.0.1:8080/
-```
+
